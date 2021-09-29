@@ -1,1 +1,1 @@
-# CodingIsHard
+# C36-teacher-reference
